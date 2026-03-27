@@ -1,0 +1,21 @@
+# Flutter-specific ignores
+
+# Build outputs
+build/
+
+# Dart tool
+.dart_tool/
+
+# Dependency files
+pubspec.lock
+
+# Environment files
+.env
+
+# iOS specific
+ios/Pods/
+ios/Runner.xcworkspace/
+
+# Android specific
+android/.gradle/
+android/app/build/
